@@ -1,0 +1,24 @@
+Track1: 
+09:00 - ï»¿Writing Fast Tests Against Enterprise Rails 
+10:00 - Communicating Over Distance 
+11:00 - Rails Magic 
+12:00 - Lunch
+13:00 - Overdoing it in Python 
+13:45 - Ruby Errors from Mismatched Gem Versions 
+14:30 - Common Ruby Errors 
+15:15 - Accounting-Driven Development 
+16:00 - Pair Programming vs Noise 
+16:45 - Rails for Python Developers 
+16:50 - Networking Event
+Track2: 
+09:00 - ï»¿Writing Fast Tests Against Enterprise Rails 
+10:00 - Communicating Over Distance 
+11:00 - Rails Magic 
+12:00 - Lunch
+13:00 - Overdoing it in Python 
+13:45 - Ruby Errors from Mismatched Gem Versions 
+14:30 - Common Ruby Errors 
+15:15 - Accounting-Driven Development 
+16:00 - Pair Programming vs Noise 
+16:45 - Rails for Python Developers 
+16:50 - Networking Event
