@@ -11,14 +11,15 @@ Track1:
 16:45 - Rails for Python Developers 
 16:50 - Networking Event
 Track2: 
-09:00 - ï»¿Writing Fast Tests Against Enterprise Rails 
-10:00 - Communicating Over Distance 
-11:00 - Rails Magic 
+09:00 - Ruby on Rails: Why We Should Move On 
+10:00 - Ruby on Rails Legacy App Maintenance 
+11:00 - Lua for the Masses 
+11:30 - Woah 
 12:00 - Lunch
-13:00 - Overdoing it in Python 
-13:45 - Ruby Errors from Mismatched Gem Versions 
-14:30 - Common Ruby Errors 
-15:15 - Accounting-Driven Development 
-16:00 - Pair Programming vs Noise 
-16:45 - Rails for Python Developers 
-16:50 - Networking Event
+13:00 - Clojure Ate Scala (on my project) 
+13:45 - Sit Down and Write 
+14:15 - Programming in the Boondocks of Seattle 
+14:45 - Ruby vs. Clojure for Back-End Development 
+15:15 - A World Without HackerNews 
+15:45 - User Interface CSS in Rails Apps 
+16:15 - Networking Event

@@ -52,7 +52,7 @@ public class TrackManagement {
             }
 
             writer.println("Track2: ");
-            for (Talk t: track1.getTalks()) {
+            for (Talk t: track2.getTalks()) {
                 writer.println(t.toString());
             }
 
@@ -201,5 +201,13 @@ public class TrackManagement {
     protected void addNetworkingEvent(Track track) {
         track.addTalk(new Talk("Networking Event", 60, LocalTime.of(track.getAfternoonLength() / 60, track.getAfternoonLength() % 60, 0)));
         track.increaseAfternoonLength(60);
+    }
+
+    public Track getTrack1() {
+        return track1;
+    }
+
+    public Track getTrack2() {
+        return track2;
     }
 }

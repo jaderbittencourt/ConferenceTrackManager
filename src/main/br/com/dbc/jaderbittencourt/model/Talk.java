@@ -48,6 +48,9 @@ public class Talk {
 
     @Override
     public String toString() {
-        return getScheduledTime().toString() + " - " + getTitle();
+        if (getScheduledTime() != null)
+            return getScheduledTime().toString() + " - " + getTitle();
+        else
+            return getTitle();
     }
 }
